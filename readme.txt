@@ -12,4 +12,4 @@ GOGOGOGO
 
 Practice
 
-Keep practice
+Keep practice. GOGO
