@@ -27,4 +27,4 @@ Whbriugurhiu
 
 Fbhwruhuwr
 
-fjinjinjirji
+fjinjinjirjirm -f ./.git/index.lock
